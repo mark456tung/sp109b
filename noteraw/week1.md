@@ -27,6 +27,6 @@ make: *** [Makefile:11: clean] Error 2
 ```
 ar是gcc 下所附設的一個壓縮含式庫 壓縮成.a檔
 --------------------------------------------
-什麼是連結(只編一部連結 做函式庫用
-)
+什麼是連結(只編一部連結 做函式庫用)
+
 gitbash https://dev.to/andrewriveradev/how-to-set-git-bash-as-integrated-terminal-in-vscode-2k31 

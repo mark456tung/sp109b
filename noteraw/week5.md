@@ -7,6 +7,6 @@ asm 01 hack例子vm.c
 目前最常看到的虛擬機種類是寄生虛擬機(Hosted VM)
 虛擬機分成三種架構 記憶體機 暫存器機 堆疊機(幾乎沒有cpu是這樣設計的)
 Java的JVM虛擬機(堆疊機)
-02 pitifulvm
+06-02 pitifulvm
 QEMU可以在RISC-V上跑 ARM X86 反之亦然 速度大約只比原生慢兩到三倍
 稍微介紹c4(可以自我編譯)有內建堆疊虛擬機
