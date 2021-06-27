@@ -1,4 +1,4 @@
-# week5
+# week9
 介紹一些程式大公司的淵源(被告與告) google和oracle --htc和apple
 * 08-01 task.c vmem.c mem.c 
     * getpid()用來取得目前的行程id
