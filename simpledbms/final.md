@@ -1130,3 +1130,7 @@ pointer https://blog.csdn.net/weixin_30477293/article/details/98932142
 B tree https://medium.com/hallblazzar-%E9%96%8B%E7%99%BC%E8%80%85%E6%97%A5%E8%AA%8C/%E5%AD%B8%E7%BF%92%E6%89%8B%E8%A8%98-2018%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8db-ai-bootcamp-ii-b-tree-indexing-648a096e1598
 */  
 ```     
+
+
+# 本專案僅學習使用
+[license](https://github.com/mark456tung/sp109b/blob/main/LICENSE.MD)

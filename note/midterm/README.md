@@ -362,5 +362,8 @@ RISC-V指令集的設計考慮了小型、快速、低功耗的現實情況來�
 ![image](https://user-images.githubusercontent.com/62127656/123508237-b5509280-d6a0-11eb-9391-88206695f6d3.png)
 >The Xv6 operating system, an open source OS developed for teaching purposes, based on a rewrite of the UNIX v6 kernel. As a tiny minimalist system, few features are available.
 
+# 本專案僅學習使用 
+[license](https://github.com/mark456tung/sp109b/blob/main/LICENSE.MD)
+
 
 
