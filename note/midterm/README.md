@@ -347,5 +347,20 @@ QEMU可以在RISC-V上跑 ARM X86 反之亦然 速度大約只比原生慢兩到
       * 將stream輸入到str最多不超過n個字符
 # Week16
 * 09-c-02-02/03/04
+# Week17
+## RISC-V簡介
+資料來源：[維基百科](https://zh.wikipedia.org/wiki/RISC-V)
+
+* 簡介<br>
+是一個基於精簡指令集（RISC）原則的開源指令集架構（ISA）<br>
+RISC-V指令集可以自由地用於任何目的，允許任何人設計、製造和銷售RISC-V晶片和軟體而不必支付給任何公司專利費。<br>
+RISC-V指令集的設計考慮了小型、快速、低功耗的現實情況來實做，但並沒有對特定的微架構做過度的設計。<br>
+# Week18
+## XV6
+* xv6是在ANSI C中針對多處理器x86系統的Unix第六版的現代重新實現。它在麻省理工學院的作業系統工程（6.828）課程中用於教學目的。
+
+![image](https://user-images.githubusercontent.com/62127656/123508237-b5509280-d6a0-11eb-9391-88206695f6d3.png)
+>The Xv6 operating system, an open source OS developed for teaching purposes, based on a rewrite of the UNIX v6 kernel. As a tiny minimalist system, few features are available.
+
 
 

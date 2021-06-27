@@ -1,3 +1,4 @@
+//來源 https://github.com/cstack/db_tutorial/blob/master/db.c
 #include <errno.h>
 #include <fcntl.h>
 #include <stdbool.h>
@@ -1071,6 +1072,7 @@ int main(int argc, char *argv[])
 搭配服用 https://cstack.github.io/db_tutorial/
 以下是我在trace code時 重複參考的一些文章
 這些知識點可以先理解一下 再搭配上面這篇文章會比較好懂
+enum https://docs.microsoft.com/zh-tw/cpp/c-language/c-enumeration-declarations?view=msvc-160
 sscanf() http://tw.gitbook.net/c_standard_library/c_function_sscanf.html
 strlen() http://tw.gitbook.net/c_standard_library/c_function_strlen.html 但是這裡面的例子結果好像怪怪的
 strtok() http://tw.gitbook.net/c_standard_library/c_function_strtok.html https://bbs.csdn.net/topics/40226502

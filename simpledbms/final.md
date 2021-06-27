@@ -21,8 +21,9 @@
 
 ## 若有同學也想了解的話
 * [作者的tutorial](https://cstack.github.io/db_tutorial/)
-* 以下是我在trace code時 重複參考的一些文章
-   * 建議先了解以下的知識點再搭配上面這篇文章會比較好懂
+* 如果是用vscode ctrl+滑鼠左鍵 還有alt+鍵盤左鍵/右鍵 非常好用喔!
+* 以下是我在trace code時 重複參考的一些文章 
+   * 建議先了解以下的知識點再搭配上面作者文章會比較好懂
    * [enum](https://docs.microsoft.com/zh-tw/cpp/c-language/c-enumeration-declarations?view=msvc-160)
    * [sscanf()](http://tw.gitbook.net/c_standard_library/c_function_sscanf.html)
    * [strlen()](https://www.1ju.org/cprogramming/c-strlen)
