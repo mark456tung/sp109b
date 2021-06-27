@@ -1,4 +1,6 @@
 # Final-simpledbms
+* 此程式非原創，[來源](https://github.com/cstack/db_tutorial/blob/master/db.c)
+* 對於程式內容約90%理解
 ## 前言
 這學期我還有修另一門名叫"資料庫管理系統"的課<br>
 聽到名字時我還以為這門課的內容是要教授我們資料庫管理系統的原理<br>
