@@ -42,7 +42,7 @@
    * [B tree](https://medium.com/hallblazzar-%E9%96%8B%E7%99%BC%E8%80%85%E6%97%A5%E8%AA%8C/%E5%AD%B8%E7%BF%92%E6%89%8B%E8%A8%98-2018%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8db-ai-bootcamp-ii-b-tree-indexing-648a096e1598)
     
 ## [程式碼加上自己的註解](https://github.com/mark456tung/sp109b/blob/main/simpledbms/db.c)<--連結裡有程式 md檔的程式顏色都一樣讀起來很痛苦
-```
+```C
 //來源 https://github.com/cstack/db_tutorial/blob/master/db.c
 #include <errno.h>
 #include <fcntl.h>
